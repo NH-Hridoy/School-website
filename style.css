@@ -1,0 +1,95 @@
+
+.cal1{
+    background:#F0FFF0;
+}
+.bo{
+    height: 43px;
+width: 104px;
+left: 1201px;
+top: 25px;
+border-radius: 33px;
+padding: 12px, 28px, 12px, 28px;
+}
+.text{
+   
+   font-size: 47px;
+    font-weight: bold;
+}
+.text1{
+    color:#21B573;
+    
+}
+.bo1{
+    height: 43px;
+width: 153px;
+left: 205px;
+top: 470px;
+border-radius: 33px;
+padding: 12px, 36px, 12px, 36px;
+
+}
+.po{
+  margin-top: 90px;
+    font-weight: 400;
+    color: #FD511A;
+
+}
+.lo{
+    font-size: 16px;
+    font-weight: normal;
+    color: #6C6B6B;
+}
+.img1{
+    padding-top: 20px;
+    width: 66px;
+    height: 85px;
+}
+.con{
+    padding-top: 100px;
+}
+.back{
+    margin-left: 50px;
+    
+    box-shadow: 5px 5px 10px lightgray;
+}
+.kol2{
+    border: none;
+    padding: 20px 20px 20px 20px ;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.button1{
+    background-color: #21B573;
+    color: white;
+    border-radius: 33px;
+}
+.photo{
+    width: 120px;
+height: 120px;
+}
+.testimonial{
+    margin-top: 70px;
+}
+.sp{
+    padding: 15px;
+}
+.background{
+    
+    background-color:  #282531;
+    ;
+    color: white;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+.text2{
+    font-weight: 700;
+}
+.text3{
+    font-size: 12px;
+    color: #6C6B6B;
+    font-weight: 400;
+}
+.text4{
+    font-weight: 600;
+}
+
